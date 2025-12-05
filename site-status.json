@@ -1,4 +1,8 @@
 {
-  "active": true,
-  "message": "Sitio en mantenimiento"
+  "analyticsEnabled": false,
+  "trackingId": "GA-XXXXXXXXX",
+  "branding": {
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#ffffff"
+  }
 }
