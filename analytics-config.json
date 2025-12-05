@@ -1,5 +1,5 @@
 {
-  "analyticsEnabled": true,
+  "analyticsEnabled": false,
   "trackingId": "GA-XXXXXXXXX",
   "branding": {
     "primaryColor": "#ffffff",
